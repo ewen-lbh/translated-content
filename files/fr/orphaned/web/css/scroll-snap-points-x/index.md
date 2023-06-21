@@ -1,30 +1,30 @@
 ---
-title: scroll-snap-points-y
-slug: Web/CSS/scroll-snap-points-y
+title: scroll-snap-points-x
+slug: orphaned/Web/CSS/scroll-snap-points-x
 tags:
   - CSS
   - Déprécié
-  - Non-standard
   - Propriété
   - Reference
-translation_of: Web/CSS/scroll-snap-points-y
+translation_of: Web/CSS/scroll-snap-points-x
+original_slug: Web/CSS/scroll-snap-points-x
 ---
 
 {{CSSRef}}{{deprecated_header}}
 
-La propriété **`scroll-snap-points-y`** définit le positionnement vertical des points d'accroche dans le conteneur de défilement auquel ils s'appliquent.
+La propriété **`scroll-snap-points-x`** définit le positionnement horizontal des points d'accroche dans le conteneur de défilement auquel ils s'appliquent.
 
 ```css
 /* Valeur avec un mot-clé */
-scroll-snap-points-y: none;
+scroll-snap-points-x: none;
 
 /* Répétition des points d'accroche */
-scroll-snap-points-y: repeat(400px);
+scroll-snap-points-x: repeat(400px);
 
 /* Valeurs globales */
-scroll-snap-points-y: inherit;
-scroll-snap-points-y: initial;
-scroll-snap-points-y: unset;
+scroll-snap-points-x: inherit;
+scroll-snap-points-x: initial;
+scroll-snap-points-x: unset;
 ```
 
 ## Syntaxe
@@ -56,11 +56,10 @@ scroll-snap-points-y: unset;
 
 ```css
 #container {
-  height: 200px;
-  width: 220px;
-  overflow-x: hidden;
-  overflow-y: auto;
-  scroll-snap-points-y: repeat(200px);
+  width: 200px;
+  overflow: auto;
+  white-space: nowrap;
+  scroll-snap-points-x: repeat(100%);
   scroll-snap-type: mandatory;
   font-size: 0;
 }
@@ -75,11 +74,11 @@ scroll-snap-points-y: unset;
 }
 
 #container > div:nth-child(even) {
-  background-color: #87EA87;
+  background-color: #87ea87;
 }
 
 #container > div:nth-child(odd) {
-  background-color: #87CCEA;
+  background-color: #87ccea;
 }
 ```
 

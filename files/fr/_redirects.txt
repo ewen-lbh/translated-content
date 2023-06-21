@@ -4587,6 +4587,12 @@
 /fr/docs/Web/CSS/repeating-linear-gradient()	/fr/docs/Web/CSS/gradient/repeating-linear-gradient
 /fr/docs/Web/CSS/repeating-radial-gradient	/fr/docs/Web/CSS/gradient/repeating-radial-gradient
 /fr/docs/Web/CSS/repeating-radial-gradient()	/fr/docs/Web/CSS/gradient/repeating-radial-gradient
+/fr/docs/Web/CSS/scroll-snap-coordinate	/fr/docs/orphaned/Web/CSS/scroll-snap-coordinate
+/fr/docs/Web/CSS/scroll-snap-destination	/fr/docs/orphaned/Web/CSS/scroll-snap-destination
+/fr/docs/Web/CSS/scroll-snap-points-x	/fr/docs/orphaned/Web/CSS/scroll-snap-points-x
+/fr/docs/Web/CSS/scroll-snap-points-y	/fr/docs/orphaned/Web/CSS/scroll-snap-points-y
+/fr/docs/Web/CSS/scroll-snap-type-x	/fr/docs/orphaned/Web/CSS/scroll-snap-type-x
+/fr/docs/Web/CSS/scroll-snap-type-y	/fr/docs/orphaned/Web/CSS/scroll-snap-type-y
 /fr/docs/Web/CSS/scrollbar-colr	/fr/docs/Web/CSS/scrollbar-color
 /fr/docs/Web/CSS/scrollbar-track-color	/fr/docs/Web/CSS/scrollbar-color
 /fr/docs/Web/CSS/shape-box	/fr/docs/Web/CSS/shape-outside

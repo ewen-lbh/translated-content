@@ -1,12 +1,13 @@
 ---
 title: scroll-snap-coordinate
-slug: Web/CSS/scroll-snap-coordinate
+slug: orphaned/Web/CSS/scroll-snap-coordinate
 tags:
   - CSS
   - Déprécié
   - Propriété
   - Reference
 translation_of: Web/CSS/scroll-snap-coordinate
+original_slug: Web/CSS/scroll-snap-coordinate
 ---
 
 {{CSSRef}}{{deprecated_header}}

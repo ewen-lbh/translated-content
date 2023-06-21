@@ -1,12 +1,13 @@
 ---
 title: scroll-snap-destination
-slug: Web/CSS/scroll-snap-destination
+slug: orphaned/Web/CSS/scroll-snap-destination
 tags:
   - CSS
   - Déprécié
   - Propriété
   - Reference
 translation_of: Web/CSS/scroll-snap-destination
+original_slug: Web/CSS/scroll-snap-destination
 ---
 
 {{CSSRef}}{{deprecated_header}}

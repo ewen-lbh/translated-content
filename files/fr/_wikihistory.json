@@ -18743,22 +18743,6 @@
     "modified": "2020-10-15T22:11:32.358Z",
     "contributors": ["SphinxKnight"]
   },
-  "Web/CSS/scroll-snap-coordinate": {
-    "modified": "2020-10-15T21:42:48.115Z",
-    "contributors": ["SphinxKnight"]
-  },
-  "Web/CSS/scroll-snap-destination": {
-    "modified": "2020-10-15T21:42:40.512Z",
-    "contributors": ["SphinxKnight"]
-  },
-  "Web/CSS/scroll-snap-points-x": {
-    "modified": "2020-10-15T21:42:45.133Z",
-    "contributors": ["SphinxKnight", "teoli"]
-  },
-  "Web/CSS/scroll-snap-points-y": {
-    "modified": "2020-10-15T21:42:38.109Z",
-    "contributors": ["SphinxKnight", "teoli"]
-  },
   "Web/CSS/scroll-snap-stop": {
     "modified": "2020-10-15T22:10:03.086Z",
     "contributors": ["SphinxKnight"]
@@ -18766,14 +18750,6 @@
   "Web/CSS/scroll-snap-type": {
     "modified": "2020-10-15T21:42:50.969Z",
     "contributors": ["SphinxKnight", "jide"]
-  },
-  "Web/CSS/scroll-snap-type-x": {
-    "modified": "2020-10-15T21:42:38.724Z",
-    "contributors": ["SphinxKnight"]
-  },
-  "Web/CSS/scroll-snap-type-y": {
-    "modified": "2020-10-15T21:42:39.974Z",
-    "contributors": ["SphinxKnight"]
   },
   "Web/CSS/scrollbar-color": {
     "modified": "2020-10-15T22:10:04.861Z",
@@ -27717,5 +27693,29 @@
       "si0ls",
       "dattaz"
     ]
+  },
+  "orphaned/Web/CSS/scroll-snap-coordinate": {
+    "modified": "2020-10-15T21:42:48.115Z",
+    "contributors": ["SphinxKnight"]
+  },
+  "orphaned/Web/CSS/scroll-snap-destination": {
+    "modified": "2020-10-15T21:42:40.512Z",
+    "contributors": ["SphinxKnight"]
+  },
+  "orphaned/Web/CSS/scroll-snap-points-x": {
+    "modified": "2020-10-15T21:42:45.133Z",
+    "contributors": ["SphinxKnight", "teoli"]
+  },
+  "orphaned/Web/CSS/scroll-snap-points-y": {
+    "modified": "2020-10-15T21:42:38.109Z",
+    "contributors": ["SphinxKnight", "teoli"]
+  },
+  "orphaned/Web/CSS/scroll-snap-type-x": {
+    "modified": "2020-10-15T21:42:38.724Z",
+    "contributors": ["SphinxKnight"]
+  },
+  "orphaned/Web/CSS/scroll-snap-type-y": {
+    "modified": "2020-10-15T21:42:39.974Z",
+    "contributors": ["SphinxKnight"]
   }
 }
